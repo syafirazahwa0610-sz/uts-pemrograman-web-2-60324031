@@ -43,5 +43,4 @@ UTS_60324031/
 └── README.md
 
 link repository
-
-https://github.com/username/nama-repo
+https://github.com/syafirazahwa0610-sz/uts-pemrograman-web-2-60324031
